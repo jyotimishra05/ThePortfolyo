@@ -4,7 +4,7 @@ import Navbar from './components /Navbar';
 import Home from './components /pages/Home';
 import Services from './components /pages/Services';
 import About from './components /pages/About';
-import Projects from './components /pages/Projects';
+import Projects from './components /pages/Projects/Projects';
 import Review from './components /pages/Review';
 import "./index.css"
 import Skills from "./components /pages/Skills";

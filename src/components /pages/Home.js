@@ -2,7 +2,7 @@ import React from 'react'
 import Services from './Services';
 import About from './About';
 import Skills from './Skills';
-import Projects from './Projects';
+import Projects from './Projects/Projects';
 import Contact from './Contact';
 import Review from './Review';
 import Timeline from './Timeline';

@@ -12,7 +12,7 @@ const Skills = ({data}) => {
                 <img
                   src={skill.image.url}
                   alt={skill.name}
-                  style={{ width: "150px" }}
+                  style={{ width: "90px" }}
                 />
                 <p className="text-yellow fw-bold fs-4">{skill.name}</p>
 

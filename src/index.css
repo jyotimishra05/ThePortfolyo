@@ -1,4 +1,3 @@
-
 .container{
   display: flex;
   
@@ -194,14 +193,13 @@
   color: yellow;
 }
 
-.detailCard{
+/* .detailCard{
   width: 100%;
-  height: 50vh;
-  border: 0.2px solid yellow;
+  height: 60vh;
+  
   
 
-}
-
+} */
 .innerC{
   display: flex;
   justify-content:center;

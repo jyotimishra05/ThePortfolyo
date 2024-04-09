@@ -1,3 +1,4 @@
+### Fetched portfolio data from provided API using hooks, utilized useEffect for async data fetching, managed data state with useState hooks, rendered dynamic content in components, and implemented error handling for smooth UX.
 
 ## Project Link:https://the-portfolyo-424v.vercel.app/
 
